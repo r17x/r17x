@@ -1,4 +1,4 @@
-### Hi there 👋
+## whoami 👋
 
 <!--
 **ri7nz/ri7nz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on [@warungpintar](https://github.com/warungpintar) as Software Engineer, Frontend.   
+🌱 I’m currently learning `ReasonML` & contribute too.    
+🕵️ Doing Research in [@evilfactorylabs](https://github.com/evilfactorylabs).
+## 📫 How to reach me:
+* [Website](https://rin.rocks/)
+* [Twitter](https://twitter.com/ri7nz)
