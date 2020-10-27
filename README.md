@@ -1,5 +1,3 @@
-## whoami 👋
-
 <!--
 **ri7nz/ri7nz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi 👋, 
+## Hi 👋 
 I'm [**Rin**](httos://github.com/ri7nz) and Obsessed with tinkering (me vs rabbit hole), experiment tooling, and **projects** that's solve "interesting" problem on the web, while improving **"Developer Experience"**.   
 
 - 🔭 Working on [@warungpintar](https://github.com/warungpintar) as Software Engineer, Frontend.   
