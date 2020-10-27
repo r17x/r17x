@@ -18,4 +18,9 @@ I'm [**Rin**](httos://github.com/ri7nz) and Obsessed with tinkering (me vs rabbi
 
 - 🔭 Working on [@warungpintar](https://github.com/warungpintar) as Software Engineer, Frontend.   
 - 🕵️ Join the club [@evilfactorylabs](https://github.com/evilfactorylabs) for "Tinkering".
-- 💬 Free for #ASK, DM me in [#Twitter](https://twitter.com/ri7nz)
+- 💬 Free for #ASK, DM me in [#Twitter](https://twitter.com/ri7nz).
+- 📽 Share Random "ScreenCast" in my [Youtube Channel](https://www.youtube.com/channel/UCoVcSkyw_B-oLn9M6rDCiSw)
+- ✍ Write Draft in [Blog Evilfactory](https://blog.evilfactory.id), [Personal Blog](https://rin.rocks), & Internet.
+
+Thank you
+- @ri7nz
