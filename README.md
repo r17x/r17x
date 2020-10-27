@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on [@warungpintar](https://github.com/warungpintar) as Software Engineer, Frontend.   
-🌱 I’m currently learning `ReasonML` & contribute too.    
-🕵️ Doing Research in [@evilfactorylabs](https://github.com/evilfactorylabs).
-## 📫 How to reach me:
-* [Website](https://rin.rocks/)
-* [Twitter](https://twitter.com/ri7nz)
+
+## Hi 👋, 
+I'm [**Rin**](httos://github.com/ri7nz) and Obsessed with tinkering (me vs rabbit hole), experiment tooling, and **projects** that's solve "interesting" problem on the web, while improving **"Developer Experience"**.   
+
+- 🔭 Working on [@warungpintar](https://github.com/warungpintar) as Software Engineer, Frontend.   
+- 🕵️ Join the club [@evilfactorylabs](https://github.com/evilfactorylabs) for "Tinkering".
+- 💬 Free for #ASK, DM me in [#Twitter](https://twitter.com/ri7nz)
