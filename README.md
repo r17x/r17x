@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 ## Hi 👋 
 I'm [**Rin**](httos://github.com/ri7nz) and Obsessed with tinkering (me vs rabbit hole), experiment tooling, and **projects** that's solve "interesting" problem on the web, while improving **"Developer Experience"**.   
 
+> if you're interested in getting a glimpse of my development tools. checkout [My Dotfiles](https://github.com/ri7nz/.dotifiles)
+
 - 🔭 Working on [@ruangguru](https://github.com/ruang-guru) as Software Engineer, Frontend.   
 <!--
 # Former
