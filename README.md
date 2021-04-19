@@ -43,6 +43,7 @@ module Rin = {
   let lang = [ "id", "en" ]
   let interests = [
     "functional programming",
+    "(D)X - Developer Experience",
     "free software",
     "tooling",
     "math",
