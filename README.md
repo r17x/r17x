@@ -48,6 +48,7 @@ module Rin = {
   let interests = [
     "functional programming",
     "(D)X - Developer Experience",
+    "metaprogramming",
     "free software",
     "tooling",
     "math",
