@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   alt="functional programming is the right way"
   style="margin-top:20px;margin-right:13px"
   align="left" 
-  height="350px"
+  height="400px"
 />
 </a>
 
