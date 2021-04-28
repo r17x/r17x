@@ -71,6 +71,7 @@ module Rin = {
 * 🇮🇩[ReasonML: Custom Operator](https://www.youtube.com/watch?v=8lRkf1YPa1c)
 * 🇮🇩[ReasonML: Pipe First vs Pipe Last](https://www.youtube.com/watch?v=K7uET1v--fA)
 * 🇮🇩[ReasonML: Interop/Bind Javascript is Fun](https://www.youtube.com/watch?v=5FKGJ2TaLFg&t=23s)
+* 🇮🇩[ReScript: Salam kenal ReScript (setup project rescript) yang minimalis](https://youtu.be/SHATMyFyLIU)
 <!--
 
 - 🔭 Working on [@ruangguru](https://github.com/ruang-guru) as Software Engineer, Frontend.   
