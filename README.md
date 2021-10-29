@@ -52,7 +52,7 @@ module Rin = {
     "tooling",
     "math",
     "dad jokes",
-    "philosophy"
+    "φ+Losophy"
   ]
 }
 
