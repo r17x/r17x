@@ -46,15 +46,13 @@ module Rin = {
   let city = "Jakarta, 🇮🇩"
   let lang = [ "id", "en" ]
   let interests = [
-    "functional programming",
-    "(D)X - Developer Experience",
-    "metaprogramming",
-    "free software",
+    "λ programming",
+    "μετα-programming",
+    "D.x = (Developer Experience)",
     "tooling",
     "math",
     "dad jokes",
-    "philosophy",
-    "some minority topic"
+    "philosophy"
   ]
 }
 
