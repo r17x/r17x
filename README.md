@@ -70,6 +70,13 @@ module Rin = {
 * 🇮🇩[ReasonML: Pipe First vs Pipe Last](https://www.youtube.com/watch?v=K7uET1v--fA)
 * 🇮🇩[ReasonML: Interop/Bind Javascript is Fun](https://www.youtube.com/watch?v=5FKGJ2TaLFg&t=23s)
 * 🇮🇩[ReScript: Salam kenal ReScript (setup project rescript) yang minimalis](https://youtu.be/SHATMyFyLIU)
+
+### Support
+
+If you want to support cause got some "VALUE" in my activities or some interest project that I make or contributes, here we go:
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ri7nz)
+
 <!--
 
 - 🔭 Working on [@ruangguru](https://github.com/ruang-guru) as Software Engineer, Frontend.   
