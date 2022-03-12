@@ -71,11 +71,52 @@ module Rin = {
 * 🇮🇩[ReasonML: Interop/Bind Javascript is Fun](https://www.youtube.com/watch?v=5FKGJ2TaLFg&t=23s)
 * 🇮🇩[ReScript: Salam kenal ReScript (setup project rescript) yang minimalis](https://youtu.be/SHATMyFyLIU)
 
-### Support
+<h3 style="text-align:center">Support</h3>
 
-If you want to support cause got some "VALUE" in my activities or some interest project that I make or contributes, here we go:
+<h4 style="text-align:center">Individuals (Backers)</h4>
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ri7nz)
+<p align="center">
+
+<a href="https://github.com/faultables">
+  <img style="border-radius:50%" src="https://github.com/faultables.png?size=50" />
+</a>
+
+<a href="https://github.com/vadhe">
+  <img style="border-radius:50%" src="https://github.com/vadhe.png?size=50" />
+</a>
+
+<a href="https://github.com/munirapp">
+  <img style="border-radius:50%" src="https://github.com/munirapp.png?size=50" />
+</a>
+
+<a href="https://github.com/grikomsn">
+  <img style="border-radius:50%" src="https://github.com/grikomsn.png?size=50" />
+</a>
+
+<a href="https://github.com/gifaeriyanto">
+  <img style="border-radius:50%" src="https://github.com/gifaeriyanto.png?size=50" />
+</a>
+
+<a href="https://github.com/muhghazaliakbar">
+  <img style="border-radius:50%" src="https://github.com/muhghazaliakbar.png?size=50" />
+</a>
+
+<a href="https://github.com/hananloser">
+  <img style="border-radius:50%" src="https://github.com/hananloser.png?size=50" />
+</a>
+
+</p>
+
+<p align="center">If you want to support cause got some "VALUE" in my activities or some interest project that I make or contributes, here we go:</p>
+
+<p align="center">
+
+<a href="https://www.buymeacoffee.com/ri7nz">
+  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" />
+</a>
+
+
+</p>
 
 <!--
 
