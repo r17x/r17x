@@ -94,15 +94,19 @@ module Rin = {
 </a>
 
 <a href="https://github.com/gifaeriyanto">
-  <img style="border-radius:50%" src="https://github.com/gifaeriyanto.png?size=50" />
+  <img src="https://github.com/gifaeriyanto.png?size=50" />
 </a>
 
 <a href="https://github.com/muhghazaliakbar">
-  <img style="border-radius:50%" src="https://github.com/muhghazaliakbar.png?size=50" />
+  <img src="https://github.com/muhghazaliakbar.png?size=50" />
 </a>
 
 <a href="https://github.com/hananloser">
-  <img style="border-radius:50%" src="https://github.com/hananloser.png?size=50" />
+  <img src="https://github.com/hananloser.png?size=50" />
+</a>
+
+<a href="https://github.com/dwisulfahnur">
+  <img src="https://github.com/dwisulfahnur.png?size=50" />
 </a>
 
 </p>
