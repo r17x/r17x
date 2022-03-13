@@ -111,6 +111,10 @@ module Rin = {
 
 <p align="center">
 
+<a alt="Sponsorship $5" href="https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-4WM36779EE571144UMIWXQZQ">
+  <img src="https://raw.githubusercontent.com/ri7nz/ri7nz/master/paypal_5.png" />
+</a>
+
 <a href="https://www.buymeacoffee.com/ri7nz">
   <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" />
 </a>
