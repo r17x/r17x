@@ -73,6 +73,16 @@ module Rin = {
 
 <h3 style="text-align:center">Support</h3>
 
+<h4 style="text-align:center">Individuals (Sponsor)</h4>
+
+<p align="center">
+  
+<a href="https://github.com/hananloser">
+  <img src="https://github.com/hananloser.png?size=100" />
+</a>
+
+</p>
+
 <h4 style="text-align:center">Individuals (Backers)</h4>
 
 <p align="center">
