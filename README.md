@@ -81,6 +81,10 @@ module Rin = {
   <img src="https://github.com/hananloser.png?size=100" />
 </a>
 
+<a href="https://github.com/fzn0x">
+  <img src="https://github.com/fzn0x.png?size=100" />
+</a>
+
 </p>
 
 <h4 style="text-align:center">Individuals (Backers)</h4>
