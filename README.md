@@ -123,6 +123,14 @@ module Rin = {
   <img src="https://github.com/dwisulfahnur.png?size=50" />
 </a>
 
+<a href="https://github.com/rririanto">
+  <img src="https://github.com/rririanto.png?size=50" />
+</a>
+
+<a href="https://github.com/firdausious">
+  <img src="https://github.com/firdausious.png?size=50" />
+</a>
+
 </p>
 
 <p align="center">If you want to support cause got some "VALUE" in my activities or some interest project that I make or contributes, here we go:</p>
