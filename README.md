@@ -76,10 +76,11 @@ module Rin = {
 <h4 style="text-align:center">Individuals (Sponsor)</h4>
 
 <p align="center">
-  
+<!--
 <a href="https://github.com/hananloser">
   <img src="https://github.com/hananloser.png?size=100" />
 </a>
+-->
 
 <a href="https://github.com/fzn0x">
   <img src="https://github.com/fzn0x.png?size=100" />
