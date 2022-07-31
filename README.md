@@ -38,7 +38,7 @@ I'm [**Rin**](httos://github.com/ri7nz) and Obsessed with tinkering (me vs rabbi
 module Rin = {
   let name = "rin"
   let username = "ri7nz"
-  let workplace = "Ruangguru"
+  let workplace = "?"
   let organization = [
     "@evilfactorylabs 😈",
     "@reactjs-id ⚛"
@@ -91,6 +91,10 @@ module Rin = {
 <h4 style="text-align:center">Individuals (Backers)</h4>
 
 <p align="center">
+
+<a href="https://github.com/jackyef">
+  <img style="border-radius:50%" src="https://github.com/jackyef.png?size=50" />
+</a>
 
 <a href="https://github.com/faultables">
   <img style="border-radius:50%" src="https://github.com/faultables.png?size=50" />
@@ -151,8 +155,8 @@ module Rin = {
 
 <!--
 
-- 🔭 Working on [@ruangguru](https://github.com/ruang-guru) as Software Engineer, Frontend.   
 # Former
+- 🔭 Working on [@ruangguru](https://github.com/ruang-guru) as Software Engineer, Frontend.   
 - 🔭 Working on [@warungpintar](https://github.com/warungpintar) as Software Engineer, Frontend. 
 - 🕵️ Join the club [@evilfactorylabs](https://github.com/evilfactorylabs) for "Tinkering".
 - 💬 Free for #ASK, DM me in [#Twitter](https://twitter.com/ri7nz).
