@@ -82,6 +82,14 @@ module Rin = {
 </a>
 -->
 
+<a href="https://github.com/codingki">
+  <img src="https://github.com/codingki.png?size=100" />
+</a>
+
+<a href="https://github.com/pveyes">
+  <img src="https://github.com/pveyes.png?size=100" />
+</a>
+
 <a href="https://github.com/secgron">
   <img src="https://github.com/secgron.png?size=100" />
 </a>
@@ -99,6 +107,10 @@ module Rin = {
 <h4 style="text-align:center">Individuals (Backers)</h4>
 
 <p align="center">
+
+<a href="https://github.com/sozonome">
+  <img style="border-radius:50%" src="https://github.com/sozonome.png?size=50" />
+</a>
 
 <a href="https://github.com/jackyef">
   <img style="border-radius:50%" src="https://github.com/jackyef.png?size=50" />
