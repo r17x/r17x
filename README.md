@@ -82,6 +82,14 @@ module Rin = {
 </a>
 -->
 
+<a href="https://github.com/secgron">
+  <img src="https://github.com/secgron.png?size=100" />
+</a>
+
+<a href="https://github.com/ammarfaizi2">
+  <img src="https://github.com/ammarfaizi2.png?size=100" />
+</a>
+
 <a href="https://github.com/fzn0x">
   <img src="https://github.com/fzn0x.png?size=100" />
 </a>
