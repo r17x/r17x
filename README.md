@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 > Every good wizard knows;if you have the name of a spirit, you have power over it. - [found here](https://slides.com/thomasomans/functional-programming-forever/fullscreen#/2/0/4)
 
-<a href="https://web.mit.edu/alexmv/6.037/sicp.pdf">   
+<a href="https://web.mit.edu/6.001/6.037/sicp.pdf">   
 <img 
   src="https://raw.github.com/ri7nz/ri7nz/master/sicp.png" 
   alt="functional programming is the right way"
