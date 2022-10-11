@@ -184,3 +184,5 @@ module Rin = {
 - ✍ Write Draft in [Blog Evilfactory](https://blog.evilfactory.id), [Personal Blog](https://rin.rocks), & Internet.
 -->  
 
+[![@r17x's Holopin board](https://holopin.io/api/user/board?user=r17x)](https://holopin.io/@r17x)
+
